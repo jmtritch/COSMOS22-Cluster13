@@ -3,7 +3,7 @@
 ## Team-7-Data-Analysis
 ### WHO
 * Tanmayi Dasari - rising junior at Cupertino High School
-* Sebastian Hazl- rising junior at the Webb Schools of California
+* Sebastian Hazlett - rising junior at the Webb Schools of California
 * Claire Lee - rising senior at Canyon Crest Academy
 * Alex Miller - rising senior at Mountain View High School
 * Dorothy Zhang - rising junior at Menlo School 
