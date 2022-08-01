@@ -3,8 +3,8 @@
 #define outputB 12
 
 //Encoder
-#define encoder 0
-#define encoderRegLength 5
+#define encoder 0 
+#define encoderRegLength 5 
 int encoderRegister[encoderRegLength];  //  <----------------------Shift register
 int encoderRegSum = 0;                  //  <-------------/
 int encoderVal = 5;      //   <----------depth of buoy in rotations
