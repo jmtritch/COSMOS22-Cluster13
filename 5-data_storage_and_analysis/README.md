@@ -34,6 +34,7 @@ We worked on OLS and ANOVA models for data analysis, as well as continuing work 
   <img src="https://user-images.githubusercontent.com/69954364/182474054-214cc68a-ca6b-4b52-8d15-42015d050fe6.jpeg" width="49%"  />
 </p>
 
-
-
-<img src="https://user-images.githubusercontent.com/69954364/182469746-49c51d90-2528-4192-bcd1-7e65fad7d31a.jpeg" width="45%" /> <img src="https://user-images.githubusercontent.com/69954364/182471673-96e78510-28ed-43d4-a1cd-2b90afcb40c0.jpg" width="45%" />!
+<p align="center">
+  <img align="top" src="https://user-images.githubusercontent.com/69954364/182469746-49c51d90-2528-4192-bcd1-7e65fad7d31a.jpeg" width="45%" />
+  <img align="top" src="https://user-images.githubusercontent.com/69954364/182478764-6995362e-a6c3-4817-ac1d-281dff6e10d7.jpeg" width="45%" />
+</p>
