@@ -3,7 +3,7 @@
 ## Group 7: Data Analysis
 We analyze the data, program the server and communication, process the data, make conclusions & cool models.
 
-### WHO
+### OUR TEAM
 * Tanmayi Dasari - @tanmayi2 - rising junior at Cupertino High School
 * Sebastian Hazl - @ZopesPrograms - rising junior at the Webb Schools of California 
 * Claire Lee - @clairecgl - rising senior at Canyon Crest Academy 
@@ -24,9 +24,15 @@ Additonally, here is our initial brainstorming diagram displaying the flow of da
 </p>
 
 ### WEEK 2
-During the second week, Group 7 learned about database structure using SQLite and created a database to store sensor, GPS, and timestamp data. We decided on using serial with Group 6 to transfer the data. Sebastian started working on transferring the data from serial to the database using Python. Dorothy and Tanmayi decided on Plotly Dash as the library for the dashboard and planned out the layout of the dashboard. Claire and Alex started to learn Python to create models. Claire delved into exploratory data analysis and started learning about K-means clustering, linear regression, and goodness of fit for our data analysis. Meanwhile, Alex set up the server with the Linux OS.
+During the second week, Group 7 learned about database structure using SQLite and created a database to store sensor, GPS, and timestamp data. We also decided on using serial with Group 6 to transfer the data. Sebastian started working on transferring the data from serial to the database using Python. Dorothy and Tanmayi decided on Plotly Dash as the library for the dashboard and planned out the layout of the dashboard. Claire and Alex started to learn Python to create models and Claire delved into exploratory data analysis and started learning about K-means clustering, linear regression, and goodness of fit for our data analysis. Meanwhile, Alex set up the server with the Linux OS.
+
+<img align = "left" src="https://user-images.githubusercontent.com/69954364/182485000-e2959fa7-6cc1-4af6-9022-d39418299fca.png" width="58%" style="margin:20px 0px"/>
+<img align = "right" src="https://user-images.githubusercontent.com/69954364/182659949-eea206db-a29f-4eb1-8e14-8611bc46806f.jpeg" width="38%" />
+
+$~$
 
 ### WEEK 3
+
 We worked on OLS and ANOVA models for data analysis, as well as continuing work on the dashboard. We completed dashboard plot code and tested the live updates on dashboard. Finally, we CADed the radio-to-stand connector of LoRa and server, an esp32 protective box, and LoRa reciever case. On Friday, we went to the Miramar Lake for the final test of our roboboat. We got to see data send to our dashboard and update on refresh!
 
 <p align="center">
