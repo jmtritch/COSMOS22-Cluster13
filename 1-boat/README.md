@@ -1,11 +1,11 @@
 # **Boat Team**
 
-**Team Members:** Saarth, Josh, Justin, Deon, Ty, Daisy
+**Team Members:** Saarth, Justin, Deon, Ty, Daisy, Josh
 
 We worked on converting a Traxxas high-speed RC Boat into an autonomous boat: integrated a flight controller, GPS, and a radio for communicating with an autopilot software on a base station computer, designed and printed enclosures for protecting the electronics from water damage, and modified the steering system to be more agile.
 
-## **Tutorial on how to create an autonomous boat**
-[ArduboatTutorial](https://github.com/jmtritch/COSMOS22-Cluster13/blob/main/1-boat/ARDUBOAT_TUTORIAL.md)
+# **Tutorial - How To Create an Autonomous Boat**
+[Arduboat Tutorial by Justin and buddies](https://github.com/jmtritch/COSMOS22-Cluster13/blob/main/1-boat/ARDUBOAT_TUTORIAL.md)
 
 ## **CAD files**
 
