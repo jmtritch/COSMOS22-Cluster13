@@ -43,5 +43,12 @@ Arduino collects data in capsule (pH, temperature, TDS)-> Serial Communication w
 
 ![IMG_4692](https://user-images.githubusercontent.com/73302110/182684288-334ee714-ad2c-401f-95b4-82dbfd4d6adc.jpg)
 
+---
+
+## Capsule:
+
+### Objectives:
+* Create a capsule capable of sending data to the buoy
+
 
 
