@@ -372,7 +372,7 @@ Daisy Zheng
 ![alt_text](images/image35.jpg "image_tooltip")
 
 
-Dion Petrizzo
+Deon Petrizzo
 
 
 ![alt_text](images/image36.jpg "image_tooltip")
