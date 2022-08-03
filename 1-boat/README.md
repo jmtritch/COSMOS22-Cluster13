@@ -9,8 +9,7 @@
 
 
 
-    * 
-**Lux HD H7: Pin diagrams**
+    * **Lux HD H7: Pin diagrams**
 
 
         * After setting up the flight controllers, we looked at the specific pin diagrams for our board. These diagrams explained what each pin was used for which allowed us to connect the flight controller to each of the devices correctly
