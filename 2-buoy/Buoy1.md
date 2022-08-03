@@ -12,3 +12,4 @@ For our sensors, we used a pH probe sensor, a temperature sensor, and a total-di
 
 ![ph sensor](https://user-images.githubusercontent.com/70926137/182680141-5dc7bae6-08c7-4c90-97dc-01ce8c73e659.png) ![temp sensor](https://user-images.githubusercontent.com/70926137/182680225-b472e310-0f4d-4d31-a4b0-945bbe007790.png) ![tds sensor](https://user-images.githubusercontent.com/70926137/182680311-7f11f9d8-bcc3-4146-9aea-f16d3ca534b1.png)
 
+To fufill our objectives we had to first find a way to mount our sensors. [How we mounted the sensor](https://pages.github.com/)
