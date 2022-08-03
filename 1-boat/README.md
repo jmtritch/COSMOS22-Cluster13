@@ -1,6 +1,6 @@
 # **Boat Team**
 
-**Team Members: Saarth, Justin, Deon, Ty, Josh**
+**Team Members: Saarth, Justin, Deon, Ty, Josh, Daisy**
 
 We worked on converting a Traxxas high-speed RC Boat into an autonomous boat: integrated a flight controller, GPS, and a radio for communicating with an autopilot software on a base station computer, designed and printed enclosures for protecting the electronics from water damage, and modified the steering system to be more agile.
 
@@ -65,7 +65,7 @@ We worked on converting a Traxxas high-speed RC Boat into an autonomous boat: in
 
 ## Manual three-channel RC control
 
-* We decided to use another RC controller (TGY-i6S) instead of the default Traxxas controller because we needed more channels in order to override autonomous control and switch to manual control. We first tested manual control by pairing the receiver, which uses PWM to control the servo and ESC, with the RC controller. This was a fairly straightforward process, but we had to ensure that the controllers were on the right channels. We could manually test which channels corresponded to the servo and throttle by navigating to the menu and individually testing each motor. On a side note, we could only pair the default Traxxas controllers outside the classroom, likely due to interference.
+* We decided to use another RC controller (TGY-i6S) instead of the default Traxxas controller because we needed more channels in order to override autonomous control and switch to manual control. We first tested manual control by pairing the receiver, which uses PWM to control the servo and ESC, with the RC controller. This was a fairly straightforward process, but we had to ensure that the joysticks and switch on the controller were configured to the right channels. We could manually test which channels corresponded to the servo and throttle by navigating to the menu and individually testing each motor. On a side note, we could only pair the default Traxxas controllers outside the classroom, likely due to interference.
 
 ## 3D-printed water resistant enclosures for electronics 
 
