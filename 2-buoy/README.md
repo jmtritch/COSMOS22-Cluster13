@@ -37,7 +37,7 @@ We used a rotary encoder in order to document the amount of rotations to figure 
 
 The body of the second buoy was also a CreekKooler cooler.
 
-####Communication
+#### Communication
 
 Arduino collects data in capsule (pH, temperature, TDS)-> Serial Communication with Capsule through telephone wire -> esp32 sends signal to base station through LoRa antenna
 
