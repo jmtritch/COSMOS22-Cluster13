@@ -14,6 +14,8 @@ During the COSMOS 2022 Summer Program, we created two buoys and a capsule respon
 ### Procedures:
 For the body of our buoy, we used the CreekKooler floating cooler, which had the capacity to store the electronics necessary to accomplish the objectives listed above. 
 
-[insert image here later]
+![CreekKooler](https://user-images.githubusercontent.com/70926137/182679093-25eaa8e0-e32a-462e-97bf-209f75be90be.png)
 
+For our sensors, we used a pH probe sensor, a temperature sensor, and a total-dissolved-solids (TDS) sensor
 
+''insert images here later''
