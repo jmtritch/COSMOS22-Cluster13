@@ -18,4 +18,4 @@ For the body of our buoy, we used the CreekKooler floating cooler, which had the
 
 For our sensors, we used a pH probe sensor, a temperature sensor, and a total-dissolved-solids (TDS) sensor
 
-''insert images here later''
+_insert images here later_
