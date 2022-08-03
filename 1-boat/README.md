@@ -54,15 +54,14 @@ We worked on converting a Traxxas high-speed RC Boat into an autonomous boat: in
 #### **Soldering**
 
 
-
-        * After a week of making unsecure connections with tape, Ivan taught us how to solder, which allowed us to solder pin headers to the flight controller and female headers to external components, so we could easily plug in components into the flight controller.
+* After a week of making unsecure connections with tape, Ivan taught us how to solder, which allowed us to solder pin headers to the flight controller and female headers to external components, so we could easily plug in components into the flight controller.
 
 
 #### **Sik radio connection**
 
 
 * We used 2 Sik radios, with one of the radios connected to a laptop and another radio hooked up to the flight controller. The sik radios link up to each other and flash different colors to tell the user its connection status. For example, blinking green lights represent 2 radios searching for a connection, while solid green means they have established a connection with one another. Initially, the radios were not connecting, with one of the radios always turning red. However, we later discovered that the connection between the radios depended on their air speed, net ID, and firmware. In order to configure these settings, we paired the radios by changing the net ID, airspeed, and firmware to match in qgroundcontrol. We used only one pair of radios in our test, but using multiple pairs would require different net IDs to avoid interference.
-* ![Flight controller and radio]([https://lh3.googleusercontent.com/pw/AL9nZEUZ6icEK2cmL-LEWX7q1oBg507ySZUKNYTmij7dt2Nf2Wq2xarajQg1tDXMzxiFHKnG1X1BrAqKtpYKl-xoKVh9AJOVlS14l182onO9IILVb_3uI2B39YQfcoUqXaYTSYVm6bopgt3lk7H_iHcMvvc=w1836-h1376-no?authuser=0](https://lh3.googleusercontent.com/pw/AL9nZEUZ6icEK2cmL-LEWX7q1oBg507ySZUKNYTmij7dt2Nf2Wq2xarajQg1tDXMzxiFHKnG1X1BrAqKtpYKl-xoKVh9AJOVlS14l182onO9IILVb_3uI2B39YQfcoUqXaYTSYVm6bopgt3lk7H_iHcMvvc=w1836-h1376-no?authuser=0))
+* ![Flight controller and radio](https://lh3.googleusercontent.com/pw/AL9nZEUZ6icEK2cmL-LEWX7q1oBg507ySZUKNYTmij7dt2Nf2Wq2xarajQg1tDXMzxiFHKnG1X1BrAqKtpYKl-xoKVh9AJOVlS14l182onO9IILVb_3uI2B39YQfcoUqXaYTSYVm6bopgt3lk7H_iHcMvvc=w1836-h1376-no?authuser=0](https://lh3.googleusercontent.com/pw/AL9nZEUZ6icEK2cmL-LEWX7q1oBg507ySZUKNYTmij7dt2Nf2Wq2xarajQg1tDXMzxiFHKnG1X1BrAqKtpYKl-xoKVh9AJOVlS14l182onO9IILVb_3uI2B39YQfcoUqXaYTSYVm6bopgt3lk7H_iHcMvvc=w1836-h1376-no?authuser=0))
 
 
 #### **GPS**
