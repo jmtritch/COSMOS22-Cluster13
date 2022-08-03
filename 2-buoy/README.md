@@ -1,4 +1,4 @@
-# Cluster 13 - Buoy Group
+# Cluster 13 - Buoy Group ----don't put documentation on this anymore, put it on the doc for buoy1/2/capsule
 Team Members: Milan S, Daniel MS, Isabelle G, Giovanni M, Emily L
 
 ## Description:
