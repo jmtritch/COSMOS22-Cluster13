@@ -24,7 +24,7 @@ Additonally, here is our initial brainstorming diagram displaying the flow of da
 </p>
 
 ### WEEK 2
-During the second week, Group 7 learned about database structure using SQLite and created a database to store sensor, GPS, and timestamp data. We also decided on using serial with Group 6 to transfer the data. Sebastian started working on transferring the data from serial to the database using Python. Dorothy and Tanmayi decided on Plotly Dash as the library for the dashboard and planned out the layout of the dashboard. Claire and Alex started to learn Python to create models and Claire delved into exploratory data analysis and started learning about K-means clustering, linear regression, and goodness of fit for our data analysis. Meanwhile, Alex set up the server with the Linux OS.
+During the second week, Group 7 learned about database structure using SQLite and created a database to store sensor, GPS, and timestamp data. We also decided on using serial with Group 6 to transfer the data. We started working on transferring the data from serial to the database using Python. The dashboard team decided on Plotly Dash as the library for the dashboard and planned out the layout. Other members started to learn Python to create models and delved into exploratory data analysis and started learning about K-means clustering, linear regression, and goodness of fit for our data analysis. We also set up the server with the Linux OS.
 
 <img align = "left" src="https://user-images.githubusercontent.com/69954364/182485000-e2959fa7-6cc1-4af6-9022-d39418299fca.png" width="58%" style="margin:20px 0px"/>
 <img align = "right" src="https://user-images.githubusercontent.com/69954364/182659949-eea206db-a29f-4eb1-8e14-8611bc46806f.jpeg" width="38%" />
