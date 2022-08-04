@@ -51,3 +51,6 @@ We cleaned the Miramar data to get rid of faulty data, converted the timestamps 
   <img src="https://user-images.githubusercontent.com/69954364/182904149-bb505ec5-5858-40ad-b762-67fddb23085e.png" width="49%"  />
   <img src="https://user-images.githubusercontent.com/69954364/182904221-ed379c4b-3111-45bf-bec3-aa509499f50e.png" width="49%"  />
 </p>
+
+### CAD FILES
+[ESP32 Lora Box](https://cad.onshape.com/documents/56a8fb3fd00b3845ea2166cb/w/2508b748c3d5bb36ff4afc42/e/4aeaa9f6f6c22c6a869a5fb2?renderMode=0&uiState=62ec31240c998e06cd012d65)
