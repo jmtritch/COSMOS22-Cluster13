@@ -23,3 +23,5 @@ We then split up to work on our individual part while reconvening before each te
 
 ![work](https://github.com/jmtritch/COSMOS22-Cluster13/blob/buoy/2-buoy/student-working.png)
 
+## Conclusion
+After testing the buoys multiple times at the pool and once at the lake, we found that while our buoy was somewhat able to complete the tasks we had envisioned originally, it also had many flaws that hindered it. For one, we had many difficulties waterproofing it. However, we were able to create ingenious solutions using what we had, and were able to collect sufficient data to conduct scientific experiments. 
