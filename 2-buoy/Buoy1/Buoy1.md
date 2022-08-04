@@ -26,3 +26,7 @@ We initial planned to only have it hold the sensor but while testing we realised
 
 The final sensor that we had to mount was the PH sensor. We noticed that we could slide part of the PH sensor off
 ![ph sensor](https://user-images.githubusercontent.com/70926137/182680141-5dc7bae6-08c7-4c90-97dc-01ce8c73e659.png)
+
+### Final Design Explanation
+
+The data acquisition team utilized sensors directly attached to the buoy to collect data. The Sensors were held on using sensor holders mounted to the curvature of the buoy. Cable hole coverings were used to prevent internal water damage. After recieving the data, an ESP32 would send the data to the base station through a LoRa antenna. 
