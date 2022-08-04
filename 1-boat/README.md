@@ -367,7 +367,7 @@ Saarth Gaonkar
 <img src="https://github.com/jmtritch/COSMOS22-Cluster13/blob/main/1-boat/images/image34.png" width="30%" height="30%" />
 
 
-Daisy Zheng
+Daisy Zeng
 
 
 <img src="https://github.com/jmtritch/COSMOS22-Cluster13/blob/main/1-boat/images/image35.jpg" width="30%" height="30%" />
