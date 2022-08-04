@@ -4,8 +4,13 @@
 
 We worked on converting a Traxxas high-speed RC Boat into an autonomous boat: integrated a flight controller, GPS, and a radio for communicating with an autopilot software on a base station computer, designed and printed enclosures for protecting the electronics from water damage, and modified the steering system to be more agile.
 
-# **Tutorial - How To Create an Autonomous Boat**
-[Arduboat Tutorial by Justin](https://github.com/jmtritch/COSMOS22-Cluster13/blob/main/1-boat/ARDUBOAT_TUTORIAL.md)
+## **Documentation we created**
+
+[***Arduboat Tutorial by Justin***](https://github.com/jmtritch/COSMOS22-Cluster13/blob/main/1-boat/ARDUBOAT_TUTORIAL.md)
+
+[Project Timeline](https://github.com/jmtritch/COSMOS22-Cluster13/blob/main/1-boat/TIMELINE.md)
+
+[Final Project Presentation](https://docs.google.com/presentation/d/17up9BzliWYm42svsFPQnfsFhXZzlgkU9WlSPDdMP5Go/edit?usp=sharing)
 
 ## **CAD files**
 
@@ -32,11 +37,3 @@ We worked on converting a Traxxas high-speed RC Boat into an autonomous boat: in
 [Pixhawk](https://ardupilot.org/copter/docs/common-pixhawk-overview.html)
 
 [Mission Planner](https://ardupilot.org/planner/docs/mission-planner-overview.html)
-
-## **Resources we created**
-
-[Arduboat Tutorial by Justin](https://github.com/jmtritch/COSMOS22-Cluster13/blob/main/1-boat/ARDUBOAT_TUTORIAL.md)
-
-[Project Timeline](https://github.com/jmtritch/COSMOS22-Cluster13/blob/main/1-boat/TIMELINE.md)
-
-[Final Project Presentation](https://docs.google.com/presentation/d/17up9BzliWYm42svsFPQnfsFhXZzlgkU9WlSPDdMP5Go/edit?usp=sharing)
