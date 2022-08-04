@@ -1,7 +1,13 @@
+# Boat Team
+
+Team Members: Justin, Saarth, Deon, Ty, Daisy, Josh
+
+We worked on converting a Traxxas high-speed RC Boat into an autonomous boat: integrated a flight controller, GPS, and a radio for communicating with an autopilot software on a base station computer, designed and printed enclosures for protecting the electronics from water damage, and modified the steering system to be more agile.
+
 
 # Arduboat Tutorial
 
-- Justin and Buddies
+Created by Justin
 
 After two weeks and four days of solders, shorts, and software struggles, we were given a different flight controller for our boat. This is a compilation of a single day of work the day before the final field test. Luckily the boat worked well until we tried to tow a buoy behind it. Below is a step-by-step guide to building your own autonomous boat. Hope this helps!
 
