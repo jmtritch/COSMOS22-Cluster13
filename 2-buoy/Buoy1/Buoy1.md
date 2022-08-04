@@ -19,7 +19,7 @@ It worked by having a curved side that matched the curvatiure of the buoy and a 
 It would then be glued in to ensure no further movement. 
  ![temp sensor](https://user-images.githubusercontent.com/70926137/182680225-b472e310-0f4d-4d31-a4b0-945bbe007790.png) 
 
-Then next design was the [TDS sensor holder]([https://cad.onshape.com/documents/0d5282bba14a224c1724f533/w/94f34ff72025ca8cc00cb65f/e/ccd35523a7df853023de6571))
+Then next design was the [TDS sensor holder](https://cad.onshape.com/documents/0d5282bba14a224c1724f533/w/94f34ff72025ca8cc00cb65f/e/ccd35523a7df853023de6571)
 We designed it so we can slide the TDS sensor into it before glueing the curved edge to the side of the buoy.
 We initial planned to only have it hold the sensor but while testing we realised that the TDs sensor probe was being damaged during testing so we designed a attachment that covers the pins so they would not be damaged.
 ![tds sensor](https://user-images.githubusercontent.com/70926137/182680311-7f11f9d8-bcc3-4146-9aea-f16d3ca534b1.png)
