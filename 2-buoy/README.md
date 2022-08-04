@@ -1,5 +1,7 @@
 # Cluster 13 - Buoy Group
 Team Members: Milan S, Daniel MS, Isabelle G, Giovanni M, Emily L
+![image](https://user-images.githubusercontent.com/70926137/182910759-7c8068af-c3fb-430e-a724-e5bbc3578134.png)
+
 
 
 ## Description
