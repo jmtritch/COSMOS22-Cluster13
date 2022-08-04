@@ -47,4 +47,4 @@ Data shown on web server!
 ## Acknowledgements
 Thanks to COSMOS UCSD Cluster 13, Ivan Ferrier, J. Michael Tritchler, Dallas Dominguez, Melody Gill, Jack Silberman, and Devanshi Jain for all their hard work!
 
-#### The Team: Amanda Zhang, Sahana Hariharan, Rebecca Wang
+#### The Team: Amanda Zhang, ebecca Wang, Sahana Hariharan
