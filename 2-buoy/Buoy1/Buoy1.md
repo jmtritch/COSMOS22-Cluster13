@@ -24,8 +24,10 @@ We designed it so we can slide the TDS sensor into it before glueing the curved 
 We initial planned to only have it hold the sensor but while testing we realised that the TDs sensor probe was being damaged during testing so we designed a attachment that covers the pins so they would not be damaged.
 ![tds sensor](https://user-images.githubusercontent.com/70926137/182680311-7f11f9d8-bcc3-4146-9aea-f16d3ca534b1.png)
 
-The final sensor that we had to mount was the PH sensor. We noticed that we could slide part of the PH sensor off
+The final sensor that we had to mount was the [PH sensor](https://cad.onshape.com/documents/ea41564105b61a12bdf0fd28/w/d3fdfa1f7d79284eb63dc095/e/69df08fe40578d68010a607e). We noticed that we could slide part of the PH sensor off. We used the to our adventages as we created a part that could slide over the seperated PH sensor but not when it was complete. We used this to make it so the PH sensor would be very unlikly to fall off.
 ![ph sensor](https://user-images.githubusercontent.com/70926137/182680141-5dc7bae6-08c7-4c90-97dc-01ce8c73e659.png)
+
+
 
 ### Final Design Explanation
 
