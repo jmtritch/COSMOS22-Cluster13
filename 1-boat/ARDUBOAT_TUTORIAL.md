@@ -32,7 +32,7 @@ This will allow us to easily update the firmware on the Pixhawk and other hardwa
 Open QGroundControl -> Select Tool -> Vehicle Setup -> Summary -> Firmware (Unplug then plug in pixhawk) -> Settings
 
 
-![alt_text](images/image3.png "image_tooltip")
+![alt_text](images/image3.png "image_tooltip" | width = 100px)
 
 
 
