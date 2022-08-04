@@ -19,4 +19,5 @@ To create the buoys we first needed to come up with a plan of action. We decided
 
 We then split up to work on our individual part while reconvening before each test day to check in and offer ideas to problems we were facing. When we were unable to come to an answer we asked our advisors for proposals of new solutions. After consulting our teacher helpers, we were able to successfully assemble the buoy and all it’s electrical and sensor parts. 
 
+![work](https://github.com/jmtritch/COSMOS22-Cluster13/blob/buoy/2-buoy/student-working.png)
 
