@@ -14,7 +14,7 @@ To fufill our objectives we had to first find a way to mount our sensors. For ou
 
 To mount our sensors we decided to create a 3D printed part that can hold the sensors that we could then use hot glue or epoxy to affix it to the side of the buoy. 
 We needed to create three diferent cad models so we can mount ech of our sensors. 
-The first CAD design was created to hold the [Tempature sensor]([https://cad.onshape.com/documents/50829009a772264103478846/w/c708d828623270150ef75e4e/e/50d666d81c3724e23ea0e39a?renderMode=0&uiState=62ebf43992bb0f3bc595ef23/]
+The first CAD design was created to hold the [Tempature sensor][https://cad.onshape.com/documents/50829009a772264103478846/w/c708d828623270150ef75e4e/e/50d666d81c3724e23ea0e39a?renderMode=0&uiState=62ebf43992bb0f3bc595ef23/]
 It worked by having a curved side that matched the curvatiure of the buoy and a lego hand on the oposite side that would hold the wire. 
 It would then be glued in to ensure no further movement. 
  ![temp sensor](https://user-images.githubusercontent.com/70926137/182680225-b472e310-0f4d-4d31-a4b0-945bbe007790.png) 
