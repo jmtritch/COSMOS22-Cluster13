@@ -1,1 +1,6 @@
-
+## Timeline
+| Date | Work done |
+|---|---|
+| 7/19 | First design for capsule: <br /> ![capsule sketch](https://github.com/jmtritch/COSMOS22-Cluster13/blob/buoy/2-buoy/Capsule/capsule-plan.png) |
+| 7/25 | Refined design of capsule layout: <br /> ![final design](https://github.com/jmtritch/COSMOS22-Cluster13/blob/buoy/2-buoy/Capsule/final-capsule-design.png) <br /> For the next design of the capsule, we decided to put weights on the bottom of the capsule, and all the necessary electronics on top. A platform would separate the electronics from the weights, and we would print securements and use velcro in order to easily remove and replace the electronics inside. To allow the sensors to extrude from the capsule without leakage, we would use a combination of cable grommets and epoxy. |
+| 7/28 | [Capsule CAD](https://cad.onshape.com/documents/9a7321111b4570997014b95b/w/4ca52f9e492d14f44d9d2d3c/e/9bbe53ddc6703be7f722da70 "Capsule CAD") <br /> We received the new calibrated sensors from the data acquisition group. We then printed our newly designed sensor holders that maximized contact with the buoy. We then attached it to the buoy using epoxy to create a strong bond to the buoy that would not fail. <br /> Replaced rotary encoders with hall effect sensors. <br /> Coded up all the hardware. <br /> Wired together all the components of the capsule buoy. |
