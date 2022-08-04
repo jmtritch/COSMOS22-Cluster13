@@ -5,6 +5,7 @@ A documentation of our project progression: our challenges, breakthroughs, engin
 
 * After we unboxed the flight controllers (Lux HD H7), we flashed ArduPilot, an open-source autopilot system for RC vehicles, onto the board. Initially, the flight controllers were not detected by the computer, so we had to install virtual com ports and DFU drivers. After connecting the board to STM32cube, we wiped the device and successfully flashed the firmware. 
 * Ardupilot is the firmware for the flight controller, and Mission Planner is a ground control system for controlling the vehicle remotely. This software proved to be a large hurdle for the group, since the maze-like UI, hundreds of customizable functions, and parameters hid the basic features required to run the boat. After extensive research on RC forums and several Youtube videos, we became familiar with the program and changed specific parameters to fit our boat. ArduPilot is meant for drones and land vehicles, so all the features of ardupilot are meant to fit these machines. Instead, we built what is called an “arduboat:” a boat with ardupilot firmware. This allows for automation and all the same features as a drone. After installing and connecting the board, we moved onto the auxiliary hardware of the boat.
+* Check out the [tutorial](https://github.com/jmtritch/COSMOS22-Cluster13/blob/main/1-boat/ARDUBOAT_TUTORIAL.md) Justin made for setting up an "arduboat" and using Mission Planner to plot and run autonomous paths.
 
 ### **Electronics**
 
@@ -22,7 +23,7 @@ A documentation of our project progression: our challenges, breakthroughs, engin
 
 #### **GPS**
 
-* Initially, wiring the GPS proved to be a challenge. Two of the GPS wires were black, with only one as ground. After opening the GPS, we found that the thicker black wire represented ground. Later, we wired the GPS to the board but made the mistake of connecting Rx to Rx and Tx to Tx rather than connecting respective receiving and transmitting wires together. After solving this problem, the GPS functioned properly. While troubleshooting, we made a few unfortunate mistakes and burnt two GPSs.
+* Initially, wiring the GPS proved to be a challenge. Two of the GPS wires were black, with only one as ground. After opening the GPS, we found that the thicker black wire represented ground. Later, we wired the GPS to the board but made the mistake of connecting Rx to Rx and Tx to Tx rather than connecting respective receiving and transmitting wires together [[GPS internals](https://github.com/jmtritch/COSMOS22-Cluster13/tree/main/1-boat/boat-team-images/gps-internals.jpg)]. After solving this problem, the GPS functioned properly. While troubleshooting, we made a few unfortunate mistakes and burnt two GPSs.
 
 #### **Burning flight controllers**
 
@@ -34,39 +35,40 @@ A documentation of our project progression: our challenges, breakthroughs, engin
 
 ### **Manual three-channel RC control**
 
-* We decided to use another RC controller (TGY-i6S) instead of the default Traxxas controller because we needed more channels in order to override autonomous control and switch to manual control. We first tested manual control by pairing the receiver, which uses PWM to control the servo and ESC, with the RC controller. This was a fairly straightforward process, but we had to ensure that the joysticks and switch on the controller were configured to the right channels. We could manually test which channels corresponded to the servo and throttle by navigating to the menu and individually testing each motor. On a side note, we could only pair the default Traxxas controllers outside the classroom, likely due to interference.
+* We decided to use another RC controller (TGY-i6S) instead of the default Traxxas controller because we needed more channels in order to override autonomous control and switch to manual control. We first tested manual control by pairing the receiver, which uses PWM to control the servo and ESC, with the RC controller. This was a fairly straightforward process, but we had to ensure that the joysticks and switch on the controller were configured to the right channels [[pairing the radio](https://github.com/jmtritch/COSMOS22-Cluster13/tree/main/1-boat/boat-team-images/pairing-radio.jpg)]. We could manually test which channels corresponded to the servo and throttle by navigating to the menu and individually testing each motor. On a side note, we could only pair the default Traxxas controllers outside the classroom, likely due to interference.
 
 ### **3D-printed water resistant enclosures for electronics**
 
-* For all of our electronics, we printed water-resistant enclosures:
+* For all of our electronics, we printed water-resistant enclosures [[electronics boxed](https://github.com/jmtritch/COSMOS22-Cluster13/tree/main/1-boat/boat-team-images/electronics-boxed.jpg)]:
     * For the radio and receiver, we printed cases with tight lids and holes for external wires to pass through. These holes were sealed with hot glue although we would have preferred to use silicon as a more professional solution.
     * For the flight controller, we designed and printed a watertight enclosure and a mount for the enclosure which interfaced with holes already present on the boat.
     * In the end these enclosures proved advantageous with no damaged electronics while testing the boat.
+    * The enclosure for the flight controller, which we eventually modified to fit the Pixhawk instead of the Lux HD H7, went through a lot of [iterations](https://github.com/jmtritch/COSMOS22-Cluster13/tree/main/1-boat/boat-team-images/fc-enclosure-iterations.jpg).
 
 ### **First pool test!**
 
-* After our first boat test in the pool, we decided to 3D-print larger propellers because it seemed like the boat did not have enough power to comfortably pull the load (buoy). We decided to design and print propellers around twice the size of the original propeller and made a few versions, each with a varied number of blades (two, three, and four). However, because we used PLA, a fairly brittle plastic, and didn’t add reinforcements to our design, the propellers broke in the water when the throttle was pushed too far. We later realized that the propeller was not the problem at all; if the boat was just operated at a low speed, not displacing the water too much, it could easily pull the load.
+* After our first boat test in the pool, we decided to 3D-print larger propellers because it seemed like the boat did not have enough power to comfortably pull the load (buoy). We decided to design and print propellers around twice the size of the original propeller and made a few versions, each with a varied number of blades (two, three, and four) [[3dp propellers](https://github.com/jmtritch/COSMOS22-Cluster13/tree/main/1-boat/boat-team-images/3dp-propellers.jpg)]. However, because we used PLA, a fairly brittle plastic, and didn’t add reinforcements to our design, the propellers broke in the water when the throttle was pushed too far [[broken props](https://github.com/jmtritch/COSMOS22-Cluster13/tree/main/1-boat/boat-team-images/broken-propellers.jpg)]. We later realized that the propeller was not the problem at all; if the boat was just operated at a low speed, not displacing the water too much, it could easily pull the load.
 * We also found that the turning provided by the included rudder was far too slow with a really large turning radius. We suspected that this was due to the small surface area of the included rudder. We also noticed that though the servo had 180 degrees of freedom, the rudder only had about 90 degrees of freedom. 
 * With these observations in mind, we set out to design our own rudders and servo attachment to improve turning agility.
 
 ### **Second pool test!**
 
 * In our second pool test, we tested our new steering system, which worked better than we expected, allowing us to make very tight turns and easily maneuver within the skinny pool lane we had access to. This was a result of two modifications to the original steering system:
-    * Reorienting the servo to accommodate a longer custom 3D printed lever arm 
+    * Reorienting the servo to accommodate a longer [custom 3D printed lever arm](https://github.com/jmtritch/COSMOS22-Cluster13/tree/main/1-boat/boat-team-images/servo-mod.jpg) 
         * This increased the linear motion of the linkage that connects the servo to the rudder thereby increasing the rudder’s range of motion from ~90 degrees to almost 180 degrees
     * Designing a larger rudder which provided more surface area
-        * This also helped reduce the turning radius; however, our first design was excessively large which both looked clumsy and produced unwanted drag even at our slow operating speeds, so we iterated on the design making smaller sizes when we got back to the classroom
+        * This also helped reduce the turning radius; however, our first design was excessively large which both looked clumsy and produced unwanted drag even at our slow operating speeds, so we iterated on the design making smaller sizes when we got back to the classroom [[rudder iterations](https://github.com/jmtritch/COSMOS22-Cluster13/tree/main/1-boat/boat-team-images/rudder-iterations.jpg)].
         * Our rudder designs also have a hole for water to pass through to the cooling system within the boat.
 
 ### **Third pool test!**
 
-* In our third pool test, we compared how the boat performed with different rudder sizes and found that the smaller rudder we tested didn’t sacrifice the turning radius and caused less drag than the larger rudder. We ultimately settled on the medium sized rudder we designed
+* In our third pool test, we compared how the boat performed with different rudder sizes and found that the smaller rudder we tested didn’t sacrifice the turning radius and caused less drag than the larger rudder. We ultimately settled on the [medium sized rudder](https://github.com/jmtritch/COSMOS22-Cluster13/tree/main/1-boat/boat-team-images/rudder-mod.jpg) we designed
 * NOTE: we also designed and printed an even smaller rudder but didn’t have time to test it. It likely would’ve performed comparably to the rudder we settled on, but we didn’t want to use it in our final trial because we didn’t test it and already knew the medium sized rudder performed well.
 
 ### **Pivot to PixHawk and autonomous navigation**
 
 * After two weeks and four days of struggling with the Lux HD H7 flight controller, Jack gave us two Pixhawk 2.4.8s. This specific type of flight controller is loved by hobbyists for its functionality, robustness, and ease of use. We quickly researched the basics of the device and started anew. After a day and a half, we managed to make more progress with it than we had with the Lux HD H7. 
-* One of the 2 Pixhawks broke in an accident where power was plugged into the wrong spot, causing the board to short
+* One of the 2 Pixhawks broke in an accident where power was plugged into the wrong spot, causing the board to short.
 * To simulate autonomous navigation with the boat without having to go in the water, we used Mission Planner to map points near the lab and run the autonomous mission while walking the boat around. This allowed us to see how the throttle and steering reacted as we moved it off-track. Through our testing, we noticed that the rudder was not moving and suspected that the channels were incorrectly configured. We were further convinced when we noticed that the throttle motor appeared to be modulating its speed in an attempt to steer. After experimenting with channel and motor configurations in Mission Planner, we realized that the PixHawk was wired incorrectly, and we changed the throttle from main out 1 to main out 2 and the servo from main out 8 to main out 3, which solved the problem. 
 
 ### **Lake day!**
