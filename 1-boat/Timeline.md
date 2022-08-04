@@ -31,6 +31,8 @@ We worked on converting a Traxxas high-speed RC Boat into an autonomous boat: in
 
 [Pixhawk](https://ardupilot.org/copter/docs/common-pixhawk-overview.html)
 
+[Mission Planner](https://ardupilot.org/planner/docs/mission-planner-overview.html)
+
 ## **Resources we created**
 
 [FinalProjectPresentation](https://docs.google.com/presentation/d/17up9BzliWYm42svsFPQnfsFhXZzlgkU9WlSPDdMP5Go/edit?usp=sharing)
