@@ -26,9 +26,9 @@ We worked on converting a Traxxas high-speed RC Boat into an autonomous boat: in
 
 [TGY-IA6BReceiverEnclosure](https://cad.onshape.com/documents/975f2f7a7f84f6e907830d6b/w/4012b4122810d31c85e447a8/e/c716113e8b8c94d3e3576a56?renderMode=0&uiState=62e99a12a0feaa2881a1f3e0)
 
-[SikRadioEnclosure1](https://cad.onshape.com/documents/c3391ed66584119709134aad/w/9b98b19a87cd1257f25d6579/e/9a0190f613e11171d804b727?renderMode=0&uiState=62e80763123a4c48368da3a0)
+[SikRadioEnclosureV1](https://cad.onshape.com/documents/c3391ed66584119709134aad/w/9b98b19a87cd1257f25d6579/e/9a0190f613e11171d804b727?renderMode=0&uiState=62e80763123a4c48368da3a0)
 
-[SikRadioEnclosure2](https://cad.onshape.com/documents/cbe6cff6ed3df61fe2a0e150/w/ee1321990144475658df51f7/e/609a2fe643e35127236df8c1?renderMode=0&uiState=62e99a79c21ec068bef4b431)
+[SikRadioEnclosureV2](https://cad.onshape.com/documents/cbe6cff6ed3df61fe2a0e150/w/ee1321990144475658df51f7/e/609a2fe643e35127236df8c1?renderMode=0&uiState=62e99a79c21ec068bef4b431)
 
 [Rudders](https://cad.onshape.com/documents/341f0bfbb7fd9b8641d10de2/w/ccba5a872075a3eeead7d582/e/0432abc8975b2662196b00e9?renderMode=0&uiState=62e99aa0a5f5c9114d3c53d3)
 
