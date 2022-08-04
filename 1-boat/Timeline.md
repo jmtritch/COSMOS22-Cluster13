@@ -35,9 +35,9 @@ We worked on converting a Traxxas high-speed RC Boat into an autonomous boat: in
 
 ## **Resources we created**
 
-[Final Project Presentation](https://docs.google.com/presentation/d/17up9BzliWYm42svsFPQnfsFhXZzlgkU9WlSPDdMP5Go/edit?usp=sharing)
-
 [Arduboat Tutorial by Justin](https://github.com/jmtritch/COSMOS22-Cluster13/blob/main/1-boat/ARDUBOAT_TUTORIAL.md)
+
+[Final Project Presentation](https://docs.google.com/presentation/d/17up9BzliWYm42svsFPQnfsFhXZzlgkU9WlSPDdMP5Go/edit?usp=sharing)
 
 ## **Timeline**
 
