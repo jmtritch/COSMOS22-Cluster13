@@ -57,7 +57,7 @@ A documentation of our project progression: our challenges, breakthroughs, engin
     * Reorienting the servo to accommodate a longer [custom 3D printed lever arm](https://github.com/jmtritch/COSMOS22-Cluster13/tree/main/1-boat/boat-team-images/servo-mod.jpg) 
         * This increased the linear motion of the linkage that connects the servo to the rudder thereby increasing the rudder’s range of motion from ~90 degrees to almost 180 degrees
     * Designing a larger rudder which provided more surface area
-        * This also helped reduce the turning radius; however, our first design was excessively large which both looked clumsy and produced unwanted drag even at our slow operating speeds, so we iterated on the design making smaller sizes when we got back to the classroom [[rudder iterations](https://github.com/jmtritch/COSMOS22-Cluster13/tree/main/1-boat/boat-team-images/rudder-iterations)].
+        * This also helped reduce the turning radius; however, our first design was excessively large which both looked clumsy and produced unwanted drag even at our slow operating speeds, so we iterated on the design making smaller sizes when we got back to the classroom [[rudder iterations](https://github.com/jmtritch/COSMOS22-Cluster13/tree/main/1-boat/boat-team-images/rudder-iterations.jpg)].
         * Our rudder designs also have a hole for water to pass through to the cooling system within the boat.
 
 ### **Third pool test!**
