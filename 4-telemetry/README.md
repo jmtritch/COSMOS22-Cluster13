@@ -1,7 +1,7 @@
 # COSMOS22-Cluster13
 
 ## Poster Summary
-![Imgur](https://i.imgur.com/G8A6O0B.png)
+![Imgur](https://i.imgur.com/uoE1ZeS.png)
 
 ## Abstract
 - Configured LoRa and worked with data acquisition (DAQ) and database teams
