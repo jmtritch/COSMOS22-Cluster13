@@ -12,6 +12,14 @@ We worked on converting a Traxxas high-speed RC Boat into an autonomous boat: in
 
 [Final Project Presentation](https://docs.google.com/presentation/d/17up9BzliWYm42svsFPQnfsFhXZzlgkU9WlSPDdMP5Go/edit?usp=sharing)
 
+## **Documentation used**
+
+[LUX HD H7](https://getfpv-media.s3.amazonaws.com/wysiwyg/files/LUX-H7-User_Manual_v1.pdf)
+
+[Pixhawk](https://ardupilot.org/copter/docs/common-pixhawk-overview.html)
+
+[Mission Planner](https://ardupilot.org/planner/docs/mission-planner-overview.html)
+
 ## **CAD files**
 
 [PixhawkEnclosure](https://cad.onshape.com/documents/f0dcd2dc360e6153a8aceb5b/w/83c42524679d51935942d68b/e/775b05789a6a2d5d23418cd0?renderMode=0&uiState=62e99a547c7bdb392fe305ba)
@@ -29,11 +37,3 @@ We worked on converting a Traxxas high-speed RC Boat into an autonomous boat: in
 [GPSStand](https://drive.google.com/file/d/1A_vzA1YP445HYMUqo_vrnWkr_7P-FACy/view?usp=sharing)
 
 [FailedPropeller](https://cad.onshape.com/documents/2230b25d323cfa670fe3c34e/w/6c635d2fb56808e4df65ce90/e/1931b7b725fc2400243ae572)
-
-## **Documentation used**
-
-[LUX HD H7](https://getfpv-media.s3.amazonaws.com/wysiwyg/files/LUX-H7-User_Manual_v1.pdf)
-
-[Pixhawk](https://ardupilot.org/copter/docs/common-pixhawk-overview.html)
-
-[Mission Planner](https://ardupilot.org/planner/docs/mission-planner-overview.html)
