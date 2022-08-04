@@ -1,4 +1,5 @@
-## **Timeline**
+# **Timeline**
+A documentation of our project progression: our challenges, breakthroughs, engineering process, and lessons learned.
 
 ### **Installing ArduPilot and Mission Planner**
 
