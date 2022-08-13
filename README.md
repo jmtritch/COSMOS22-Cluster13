@@ -1,11 +1,10 @@
 # UCSD COSMOS 2022 Cluster13 - H4O: Hacking for Oceans
 
-This new exciting Cluster was inspired by the success of the [Scripps Institute of Oceanography and UCSD’s Hacking for the Oceans](http://h4oceans.ucsd.edu/) graduate and undergraduate level class.
+This Cluster was inspired by the success of the [Scripps Institute of Oceanography and UCSD’s Hacking for the Oceans](http://h4oceans.ucsd.edu/) graduate and undergraduate level class.
 
 During this inaugural year students applied engineering theory and industry-recognized best practices in the development of affordable instrumentation and robotic devices by innovating and adopting new technologies to monitor, generate and analyze data for our oceans at scale. Students worked in teams to:
 
 * Develop a surface unmanned autonomous vehicle (UAV) including testing and documentation.
-* 
 * Select and integrate low power and affordable instrumentation for the UAV using microcontrollers.
 * Collect, visualize, model, and analyize water quality data, including temperature, total dissovled solids, and pH levels.
 
@@ -26,6 +25,14 @@ Working in 5 teams, students had to achieve their team objectives while ensuring
 5. Data Storage and Analysis
    * Configured the server to receive the sensor data from the telemetry team's base-station microcontroller via serial connection.  Designed a normalized database in SQLite to store the data.  Developed a python script to receive the data via serial connection and populate the database.  Developed a Python-based databoard to visualize the data as it is received.  Utilized Python and Jupyter notebooks to visualize, model, and analyze the data.
 
+## Data Flow
+
+![Data Flow](./posters/COSMOS22-H40_data_flow.png)
+
 ## Team Posters
 
-
+![Team 1 - Boat](./posters/COSMOS22-C13-boat.png)
+![Team 2 - Buoy](./posters/COSMOS22-C13-2-buoy.png)
+![Team 3 - Data Acquisition](./posters/COSMOS22-C13-3-data_acquisition.png)
+![Team 4 - Telemetry](./posters/COSMOS22-C13-4-telemetry.png)
+![Team 5 - Data Storage and Analysis](./posters/COSMOS22-C13-5_data_storage_and_analysis.png)
