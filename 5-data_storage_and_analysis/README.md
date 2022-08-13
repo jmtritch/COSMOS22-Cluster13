@@ -1,6 +1,6 @@
 # COSMOS22-Cluster13
 
-## Group 7: Data Analysis
+## Team 5: Data Analysis
 We analyze the data, program the server and communication, process the data, make conclusions & cool models.
 
 ### WHO
@@ -24,7 +24,7 @@ Additonally, here is our initial brainstorming diagram displaying the flow of da
 </p>
 
 ### WEEK 2
-During the second week, Group 7 learned about database structure using SQLite and created a database to store sensor, GPS, and timestamp data. We decided on using serial with Group 6 to transfer the data. Sebastian started working on transferring the data from serial to the database using Python. Dorothy and Tanmayi decided on Plotly Dash as the library for the dashboard and planned out the layout of the dashboard. Claire and Alex started to learn Python to create models. Claire delved into exploratory data analysis and started learning about K-means clustering, linear regression, and goodness of fit for our data analysis. Meanwhile, Alex set up the server with the Linux OS.
+During the second week, our team learned about database structure using SQLite and created a database to store sensor, GPS, and timestamp data. We decided on using serial with Telemetry Team to transfer the data. Sebastian started working on transferring the data from serial to the database using Python. Dorothy and Tanmayi decided on Plotly Dash as the library for the dashboard and planned out the layout of the dashboard. Claire and Alex started to learn Python to create models. Claire delved into exploratory data analysis and started learning about K-means clustering, linear regression, and goodness of fit for our data analysis. Meanwhile, Alex set up the server with the Linux OS.
 
 ### WEEK 3
 We worked on OLS and ANOVA models for data analysis, as well as continuing work on the dashboard. We completed dashboard plot code and tested the live updates on dashboard. Finally, we CADed the radio-to-stand connector of LoRa and server, an esp32 protective box, and LoRa reciever case. On Friday, we went to the Miramar Lake for the final test of our roboboat. We got to see data send to our dashboard and update on refresh!
