@@ -33,11 +33,11 @@ Working in 5 teams, students had to achieve their team objectives while ensuring
 
 ### 1 - Boat
 ![Team 1 - Boat](./posters/COSMOS22-C13-1-boat.png)
-### 1 - Buoy
+### 2 - Buoy
 ![Team 2 - Buoy](./posters/COSMOS22-C13-2-buoy.png)
-### 1 - Data Acquisition
+### 3 - Data Acquisition
 ![Team 3 - Data Acquisition](./posters/COSMOS22-C13-3-data_acquisition.png)
-### 1 - Telemetry
+### 4 - Telemetry
 ![Team 4 - Telemetry](./posters/COSMOS22-C13-4-telemetry.png)
 ### 5 - Data Storage and Analysis
 ![Team 5 - Data Storage and Analysis](./posters/COSMOS22-C13-5_data_storage_and_analysis.png)
