@@ -1,0 +1,14 @@
+Temperature sensor:
+- GND -- GND
+- DAT -- PIN 2
+- VCC -- 5V
+
+TDS sensor:
+- - -- A0
+- A - GND
+- + -- 5V
+
+pH sensor:
+- V+ -- power/red
+- G -- GND
+- Po -- SIGNAL/A1
