@@ -1,7 +1,7 @@
 # Cluster 13 - Buoy Group
 Team Members: Milan S, Daniel MS, Isabelle G, Giovanni M, Emily L
-![image](https://user-images.githubusercontent.com/70926137/182910759-7c8068af-c3fb-430e-a724-e5bbc3578134.png)
 
+![image](https://user-images.githubusercontent.com/70926137/182910759-7c8068af-c3fb-430e-a724-e5bbc3578134.png)
 
 
 ## Description
@@ -25,3 +25,4 @@ We then split up to work on our individual part while reconvening before each te
 
 ## Conclusion
 After testing the buoys multiple times at the pool and once at the lake, we found that while our buoy was somewhat able to complete the tasks we had envisioned originally, it also had many flaws that hindered it. For one, we had many difficulties waterproofing it. However, we were able to create ingenious solutions using what we had, and were able to collect sufficient data to conduct scientific experiments. 
+
