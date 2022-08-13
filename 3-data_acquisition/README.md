@@ -21,7 +21,7 @@ Group 6 DAQ's role in this project is to assure accurate data readings and progr
 ***
 #### Materials
 Hardware:
-- Arduino UNO, MEGA, and NANO
+- Arduino Uno, Mega, and Nano
 - ESP32
 - Jumper wires, wires
 - Protoboard, breadboard
