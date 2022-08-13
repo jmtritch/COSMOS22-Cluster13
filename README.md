@@ -12,6 +12,10 @@ Students explored and applied principles of autonomous robots, microcontrollers,
 
 Working in 5 teams, students had to achieve their team objectives while ensuring that their work integrated seemlessly with the work of the other teams.  This required teams to identify goals, project timelines, and protocols for communication between devices and team inputs and outputs.
 
+## Video Overview
+
+[![COSMOS 2022 Cluster 13](https://img.youtube.com/vi/VEP8hvSK_jM/0.jpg)](https://www.youtube.com/watch?v=VEP8hvSK_jM)
+
 ## Teams
 
 1. Boat
@@ -41,7 +45,3 @@ Working in 5 teams, students had to achieve their team objectives while ensuring
 ![Team 4 - Telemetry](./posters/COSMOS22-C13-4-telemetry.png)
 ### 5 - Data Storage and Analysis
 ![Team 5 - Data Storage and Analysis](./posters/COSMOS22-C13-5_data_storage_and_analysis.png)
-
-## Video Overview
-
-[![COSMOS 2022 Cluster 13](https://img.youtube.com/vi/VEP8hvSK_jM/0.jpg)](https://www.youtube.com/watch?v=VEP8hvSK_jM)
