@@ -32,7 +32,7 @@ Working in 5 teams, students had to achieve their team objectives while ensuring
 ## Team Posters
 
 ### 1 - Boat
-![Team 1 - Boat](./posters/COSMOS22-C13-boat.png)
+![Team 1 - Boat](./posters/COSMOS22-C13-1-boat.png)
 ### 1 - Buoy
 ![Team 2 - Buoy](./posters/COSMOS22-C13-2-buoy.png)
 ### 1 - Data Acquisition
