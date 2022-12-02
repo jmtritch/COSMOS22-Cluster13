@@ -23,7 +23,7 @@ Working in 5 teams, students had to achieve their team objectives while ensuring
 2. Buoy
    * Designed and constructed the buoy-based instrumentation for data collection. Two buoys were constructed.  The first buoy was designed to collect sea-surface data with the instrumentation submerged off the sides.  The second buoy was designed to lower and raise sumbersible instrumentation to collect vertical profiles of water quality data.
 3. Data Acquisition
-   * Ensured accurate data readings by calibrating and oversampling the sensor data.  Programmed the microcontroller to send the sensor data to the telemetry microcontroller.  Multiple microcontrollers were necessary becasuse the instrumentation in the second buoy was packeged in a submerssible payload. Worked collaboratively with the telemetry team to develop the communication protocol (serial) and data format for communication.
+   * Ensured accurate data readings by calibrating and oversampling the sensor data.  Programmed the microcontroller to send the sensor data to the telemetry microcontroller.  Multiple microcontrollers were necessary becasuse the instrumentation in the second buoy was packeged in a submersible payload. Worked collaboratively with the telemetry team to develop the communication protocol (serial) and data format for communication.
 4. Telemetry
    * Responsible for data communication between buoys and base station.  Programmed a buoy-based microcontroller to receive sensor data via Serial connection, combine the data with a timestamp and GPS coordinates, and transmit that data via long range radio (LoRa) to the base-station.  The base-station LoRa microcontroller recieves the data and transmits it to a linux-based server via Serial connection.
 5. Data Storage and Analysis
