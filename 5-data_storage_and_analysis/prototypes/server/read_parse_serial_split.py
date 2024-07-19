@@ -8,12 +8,12 @@ import sqlite3
 def write_data_to_database(data, database):
     cur = database.cursor()
     
-    cur.execute("INSERT or IGNORE INTO location_time(lat,lon,timestamp,boat_id, depth) VALUES (?, ?, ?, ?, ?)", (data[0].strip("b\'"), data[1], data[2], data[6].strip("\\r\\n"), data[7].strip("\\r\\n")))
-    location_id = cur.lastrowid
+    cur.execute("INSERT or IGNORE INTO gps(boat_id,lat,lon,timestamp) VALUES (?, ?, ?, ?)",  (data[0], data[1], data[2], data[3]).strip("\\r\\n"), data[7].strip("\\r\\n")))
+    gps_id = cur.lastrowid
 
-    cur.execute("INSERT or IGNORE INTO dissolved_solids(ppm,locationtime_id) VALUES (?, ?)", (data[4], location_id))
-    cur.execute("INSERT or IGNORE INTO ph(level,locationtime_id) VALUES (?, ?)", (data[5].strip("\\r"), location_id))
-    cur.execute("INSERT or IGNORE INTO temperature(degree,locationtime_id) VALUES (?, ?)", (data[3], location_id))
+    #cur.execute("INSERT or IGNORE INTO dissolved_solids(ppm,locationtime_id) VALUES (?, ?)", (data[4], location_id))
+    cur.execute("INSERT or IGNORE INTO temperature(degree,gps_id) VALUES (?, ?)", (data[4], gps_id))
+    cur.execute("INSERT or IGNORE INTO ph(level,gps_id) VALUES (?, ?)", (data[5], gps_id))
     database.commit()
 
 if __name__ == "__main__":
@@ -26,7 +26,7 @@ if __name__ == "__main__":
     log_index = 0
     database_broken = False
     try:
-    	ser = serial.Serial('/dev/ttyUSB0', 9600)
+    	ser = serial.Serial('/dev/ttyUSB0', 57600)
     except Exception as e:
             logging.error(traceback.format_exc())
     # Raw data output file
@@ -37,7 +37,7 @@ if __name__ == "__main__":
     database = None
     # Try to open database, never use database again if fails
     try:
-        database = sqlite3.connect("2022Cosmos13Data.db")
+        database = sqlite3.connect("Cosmos24.db")
     except Exception as ex:
         logging.error(traceback.format_exc())
         database_broken = True
