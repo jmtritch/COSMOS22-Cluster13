@@ -4,11 +4,7 @@ Converted a Traxxas high-speed RC Boat into an autonomous boat: integrated a fli
 
 ## **Documentation we created**
 
-[***Arduboat Tutorial by Justin***](https://github.com/jmtritch/COSMOS22-Cluster13/blob/main/1-boat/ARDUBOAT_TUTORIAL.md)
-
-[Project Timeline](https://github.com/jmtritch/COSMOS22-Cluster13/blob/main/1-boat/TIMELINE.md)
-
-[Final Project Presentation](https://docs.google.com/presentation/d/17up9BzliWYm42svsFPQnfsFhXZzlgkU9WlSPDdMP5Go/edit?usp=sharing)
+[Boat Development](https://github.com/jmtritch/COSMOS22-Cluster13/blob/main/1-boat/TIMELINE.md)
 
 ## **Documentation used**
 
